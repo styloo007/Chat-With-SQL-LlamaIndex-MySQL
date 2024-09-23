@@ -1,0 +1,4 @@
+llama-index
+pymysql
+llama-index-llms-gemini
+google-generativeai
